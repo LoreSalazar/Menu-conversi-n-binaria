@@ -1,10 +1,12 @@
-/* En el proceso de codificación de una página web se emplea una estrategia de encriptado en la que se toma
- * un valor entero y se transforma en el número correspondiente de su valor binario inverso. Dado un número 
- * entero, se debe transformar a binario, invertir dicho valor binario y después regresar su correspondiente
- * número en base 10. 
+/* En el proceso de codificaciÃ³n de una pÃ¡gina web se emplea una estrategia de encriptado en la que se toma
+ * un valor entero y se transforma en el nÃºmero correspondiente de su valor binario inverso. Dado un nÃºmero 
+ * entero, se debe transformar a binario, invertir dicho valor binario y despuÃ©s regresar su correspondiente
+ * nÃºmero en base 10. 
  
  * Ejemplo: 97 (entrada), equivale a 1100001 en binario. Si lo invertimos obtenemos 1000011, que equivale a 67 en base 10.
 */
+
+/*ESTO SE HA AGREGADO DESDE GITHUB*/
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -63,7 +65,7 @@ int main(){
 						number = number/2;
 						count += 1;
 					}
-					//Impresión del número en binario
+					//ImpresiÃ³n del nÃºmero en binario
 					residue[count] = 1;	
 					printf("\nYour inverted binary number is: ");
 					
