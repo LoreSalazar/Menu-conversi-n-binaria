@@ -10,6 +10,8 @@
 
 /*ESTO ES UNA PRUEBA PARA VERIFICAR LA VALIDEZ DE LA LLAVE CON SSH*/
 
+/*PULL DESDE GIT CON SSH*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
