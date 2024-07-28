@@ -8,6 +8,8 @@
 
 /*ESTO SE HA AGREGADO DESDE GITHUB*/
 
+/*ESTO ES UNA PRUEBA PARA VERIFICAR LA VALIDEZ DE LA LLAVE CON SSH*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
