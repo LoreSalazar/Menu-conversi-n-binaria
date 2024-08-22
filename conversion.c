@@ -14,7 +14,7 @@
 /*Comentario de prueba para editar commits ... esto es una secuencia para añadir al commit...Me equivoque y este es una nueva prueba >-<...
 ...esto ya es parte de la modificación, ya la regué*/
 
-/*PRUEBA TRES MODIFICANDO COMMITS.......  SUPUESTA AÑADIDURA*/
+/*PRUEBA TRES MODIFICANDO COMMITTTS.......  SUPUESTA AÑADIDURA no. 5*/
 
 
 #include <stdio.h>
